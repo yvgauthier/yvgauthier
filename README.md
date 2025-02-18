@@ -9,7 +9,18 @@ Building quality software, I love understanding the ins and outs of the software
 Of course, I’m not a C expert yet, and I’m still learning, but I love these languages for that reason alone. Objective-C is anothe language I’m going to investigate and experiment with, as it’s the main language used by Apple for their drivers.
 
 ## 🧠 Skills 
-https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF
+![Swift](https://img.shields.io/badge/Swift-6.0-orange)
+
+
+## 🛠️ Tools
+![macOS](https://img.shields.io/badge/Platform-macOS-blue?style=flat-square)
+![Xcode 16](https://img.shields.io/badge/Xcode-16.2-blue)
+![SwiftPM](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen)
+
+
+
+
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
