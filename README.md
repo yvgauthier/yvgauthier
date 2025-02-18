@@ -13,8 +13,9 @@ Of course, I’m not a C expert yet, and I’m still learning, but I love these 
 
 
 ## 🛠️ Tools
-![macOS](https://img.shields.io/badge/Platform-macOS-blue)
-![Xcode 16](https://img.shields.io/badge/Xcode-16.2-blue)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF)
+![Xcode 16](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 
 
 
